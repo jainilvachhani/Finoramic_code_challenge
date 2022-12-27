@@ -15,7 +15,7 @@ pyxdg==0.25
 reportlab==3.3.0 
 requests==2.18.3 
 scipy==0.19.1 
-setuptools==20.7.0 
+setuptools==65.5.1 
 six==1.10.0 
 smart-open==1.5.3 
 textblob==0.12.0 
